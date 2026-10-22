@@ -24,7 +24,6 @@ Through this platform, I will be developing **Python scripts** and analytical to
 - Pandas
 - SciPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 - Google Colab
 
