@@ -6,7 +6,7 @@ Hello! My name is **Yoseph Christian**, and I am from **Indonesia**.
 
 ## About Me
 
-I am passionate about applying programming and data-driven approaches to solve real-world engineering and business problems.
+I am passionate about applying programming and data-driven approaches to solve problems.
 
 Through this platform, I will be developing **Python scripts** and analytical tools focused on:
 
