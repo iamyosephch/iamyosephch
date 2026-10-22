@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**iamyosephch/iamyosephch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yoseph Christian
 
-Here are some ideas to get you started:
+Hello! My name is **Yoseph Christian**, and I am from **Indonesia**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am passionate about applying programming and data-driven approaches to solve real-world engineering and business problems.
+
+Through this platform, I will be developing **Python scripts** and analytical tools focused on:
+
+- **Chemical Engineering**
+  - Liquid Liquid Extraction
+  - Binary Distillation (On Going)
+- **Supply Chain Management**
+  - Inventory Management
+  
+
+## Technologies
+
+- Python
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Google Colab
+
+## Objective
+
+The primary objective of this repository is to provide practical Python implementations and analytical solutions that integrate concepts from **Chemical Engineering** and **Supply Chain Management**.
+
+---
+
+*Thank you for visiting this repository. Feel free to explore the projects and contribute to their development.*
