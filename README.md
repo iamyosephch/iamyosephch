@@ -33,4 +33,4 @@ The primary objective of this repository is to provide practical Python implemen
 
 ---
 
-*Thank you for visiting this repository. Feel free to explore the projects and contribute to their development.*
+*Thank you for visiting this repository. Feel free to browse the projects, explore the code, and learn from the work presented here.*
