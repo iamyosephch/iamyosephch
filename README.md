@@ -12,7 +12,8 @@ Through this platform, I will be developing **Python scripts** and analytical to
 
 - **Chemical Engineering**
   - Liquid Liquid Extraction
-  - Binary Distillation (On Going)
+  - Binary Distillation
+  - Gas-Liquid Absorption (On Going)
 - **Supply Chain Management**
   - Inventory Management
   
