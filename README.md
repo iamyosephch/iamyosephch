@@ -26,7 +26,6 @@ Through this platform, I will be developing **Python scripts** and analytical to
 - SciPy
 - Matplotlib
 - Jupyter Notebook
-- Google Colab
 
 ## Objective
 
